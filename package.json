@@ -1,0 +1,19 @@
+{
+  "name": "web_backend",
+  "version": "1.0.0",
+  "description": "first backend project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "web_backend"
+  ],
+  "author": "siddhartha sarma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
